@@ -24,7 +24,7 @@ body {
   width: 250px;
 }
 .inner:hover {
-  box-shadow: 20px 20px 30px hsl(60, 80%, 20%);
+  box-shadow: 20px 20px 30px hsl(0, 96%, 45%);
   cursor: pointer;
 }
 span {
